@@ -1,4 +1,4 @@
-Mono Project Website [![Build Status](https://travis-ci.org/mono/website.svg)](https://travis-ci.org/mono/website)
+The Great Mono Project Website [![Build Status](https://travis-ci.org/mono/website.svg)](https://travis-ci.org/mono/website)
 ==================================================================================================================
 
 This repository contains the files used for generating the [Mono website](http://www.mono-project.com).
@@ -43,6 +43,7 @@ The site should now be running locally:
 ![website](https://cloud.githubusercontent.com/assets/1376924/3712425/c1ab2e9c-1513-11e4-9df2-6e69d461c3cf.png)
 
 Repository structure
+....................
 --------------------
 
  - `_includes` - *special folder* contains snippets that can be included via `{% include file.html %}` in other pages
